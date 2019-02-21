@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://kjkleinschmidt.me/education/</loc>
+    <lastmod>2019-02-18T14:15:33-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kjkleinschmidt.me/</loc>
+    <lastmod>2019-02-12T16:32:22-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kjkleinschmidt.me/about/</loc>
+    <lastmod>2019-02-10T00:53:32-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kjkleinschmidt.me/contact/</loc>
+    <lastmod>2019-02-10T00:53:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kjkleinschmidt.me/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kjkleinschmidt.me/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

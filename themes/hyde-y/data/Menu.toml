@@ -1,0 +1,11 @@
+[education]
+    Name = "Education"
+    URL = "/education/"
+
+[about]
+    Name = "About"
+    URL = "/about/"
+
+[contact]
+    Name = "Contact"
+    URL = "/contact/"

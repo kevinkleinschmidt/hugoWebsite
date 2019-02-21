@@ -1,0 +1,30 @@
+baseURL = "https://kjkleinschmidt.me/"
+languageCode = "en-us"
+title = "Kevin Kleinschmidt"
+theme = "hyde-y"
+
+copyright = "(c) 2019 Kevin Kleinschmidt"
+
+[author]
+  name = "Kevin Kleinschmidt"
+  email = "kjkleinschmidt96@gmail.com"
+
+[params]
+
+metaDataFormat = "yaml"
+brand = "Kevin Kleinschmidt"
+topline = "IT Student at Marist College"
+footline = "Powered by Hugo"
+
+# Sidebar position
+# false, true, "left", "right"
+sidebar = "left"
+
+home = "Experience"
+
+# Sidebar social links.
+github = "kevinkleinschmidt" # Your Github profile ID
+linkedin = "kevin-kleinschmidt/"
+
+[blackfriday]
+    hrefTargetBlank = true

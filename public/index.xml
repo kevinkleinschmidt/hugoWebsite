@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work Experience on Kevin Kleinschmidt</title>
+    <link>https://kjkleinschmidt.me/</link>
+    <description>Recent content in Work Experience on Kevin Kleinschmidt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>kjkleinschmidt96@gmail.com (Kevin Kleinschmidt)</managingEditor>
+    <webMaster>kjkleinschmidt96@gmail.com (Kevin Kleinschmidt)</webMaster>
+    <copyright>(c) 2019 Kevin Kleinschmidt</copyright>
+    <lastBuildDate>Tue, 12 Feb 2019 16:32:22 -0500</lastBuildDate>
+    
+	<atom:link href="https://kjkleinschmidt.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Education</title>
+      <link>https://kjkleinschmidt.me/education/</link>
+      <pubDate>Mon, 18 Feb 2019 14:15:33 -0500</pubDate>
+      <author>kjkleinschmidt96@gmail.com (Kevin Kleinschmidt)</author>
+      <guid>https://kjkleinschmidt.me/education/</guid>
+      <description>.classes {float: left; width: 50%;} .row:after { content: &amp;ldquo;&amp;rdquo;; display: table; clear: both; } }    Marist College, Poughkeepsie, New York   Bachelor of Science, May, 2019, G.P.A: 3.3&amp;frasl;4.0 Major: Information Systems and Technology Concentration: Information Technology Minors: Cyber Security | Computer Science  Relevant Coursework     Software Development (HTML, Java, PHP)   Data Storage &amp;amp; Architecture Management   Database Management    Internetworking   UNIX OS   Systems Administration &amp;amp; Management       Project Work    Internetworking Final Project:  (Internetworking) Designed and implemented a comprehensive network including creating an IP addressing scheme, network topology, and actual command syntax based on the networking scenario provided  Linux from Scratch Project:  (UNIX OS) Built a customized Linux system following step-by-step instructions that allowed me to gain familiarity with Linux systems and the commands and syntax used.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://kjkleinschmidt.me/about/</link>
+      <pubDate>Sun, 10 Feb 2019 00:53:32 -0500</pubDate>
+      <author>kjkleinschmidt96@gmail.com (Kevin Kleinschmidt)</author>
+      <guid>https://kjkleinschmidt.me/about/</guid>
+      <description>p { font-size: 18px; }    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; I am currently a senior at Marist College studying Information Technology and Systems. I will be completing my degree in May of 2019. In addition, I am minoring in Computer Science and Cybersecurity at Marist. During my time at school I have earned a GPA of 3.3&amp;frasl;4.0 while working part-time and being involved in several clubs on campus. I am currently seeking full-time opportunities in the IT field to apply the skills I have learned and gain further experience in the field.</description>
+    </item>
+    
+    <item>
+      <title>Contact Info</title>
+      <link>https://kjkleinschmidt.me/contact/</link>
+      <pubDate>Sun, 10 Feb 2019 00:53:28 -0500</pubDate>
+      <author>kjkleinschmidt96@gmail.com (Kevin Kleinschmidt)</author>
+      <guid>https://kjkleinschmidt.me/contact/</guid>
+      <description>.icon { width: 30px; height: 30px; padding-right:3px; } }  kjkleinschmidt96@gmail.com  (203)-706-7337 Kevin Kleinschmidt</description>
+    </item>
+    
+  </channel>
+</rss>
