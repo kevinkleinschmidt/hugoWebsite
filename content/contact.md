@@ -16,6 +16,6 @@ author: "Kevin Kleinschmidt"
 <br>
 <img src="/email.png" class="icon"> <a href="mailto:kjkleinschmidt@gmail.com">kjkleinschmidt96@gmail.com</a>
 <br>
-<p> <img src="/cell.png" class="icon"> (203)-706-7337 </p>
+<p> <img src="/cell.png" class="icon"> (203)-706-6337 </p>
 <img src="/linkicon.png" class="icon"> <a href="https://www.linkedin.com/in/kevin-kleinschmidt/" target="_blank">Kevin Kleinschmidt</a>
 </HTML>
