@@ -12,6 +12,10 @@ author: "Kevin Kleinschmidt"
 </style>
 <HR>
 <br>
-		 <p> &nbsp;&nbsp;&nbsp;&nbsp; I am currently a senior at Marist College studying Information Technology and Systems. I will be completing my degree in May of 2019. In addition, I am minoring in Computer Science and Cybersecurity at Marist. During my time at school I have earned a GPA of 3.3/4.0 while working part-time and being involved in several clubs on campus. I am currently seeking full-time opportunities in the IT field to apply the skills I have learned and gain further experience in the field. Feel free to check out my resumé and LinkedIn profile!</p>
-<img src="/kevin.jpg" style="width:50%;height:50%; margin-left:20%; margin-right:20%;">
+		 <p> &nbsp;&nbsp;&nbsp;&nbsp; I am recent Marist College currently employed at IBM as a member of the Poughkeepsie Lab Engineering team, working as a software specialist. In May of 2019 I completed a Bachelor's of Science in Information Technology and Systems. In addition, I am minored in Computer Science and Cybersecurity at Marist. During my time at school I earned a GPA of 3.3/4.0 while working part-time and being involved in several clubs on campus. Feel free to check out my resumé and LinkedIn profile!</p>
+<HR>
+<img src="/marist.png" style="width:30%;height:30%; margin-left:2%;">
+<img src="/kevin.jpg" style="width:30%;height:30%; margin-left:2%; margin-right:2%;"">
+<img src="/ibm.png" style="width:30%;height:30%; margin-right:2%;">
+<HR>
 </HTML>
